@@ -99,7 +99,7 @@ tram=$( free -m | awk 'NR==2 {print $2}' )
 uram=$( free -m | awk 'NR==2 {print $3}' )
 fram=$( free -m | awk 'NR==2 {print $4}' )
 clear 
-figlet DrugVPN | lolcat
+figlet ezwanVPN | lolcat
 echo -e "$BLUE Premium Script" | lolcat
 echo -e "${BLUE}════════════════════════════════════════════════════════════${NC}" | lolcat
 echo -e "${BGWHITE}                      SERVER INFORMATION                    ${NC}"
