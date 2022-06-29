@@ -1,7 +1,7 @@
 # /usr/local/bin/cdn-ovpn
 [Unit]
-Description=Python WS-Ovpn By NAIMSTORE
-Documentation=https://NAIMSTORE.xyz
+Description=Python WS-Ovpn By pakya
+Documentation=https://pakya.xyz
 After=network.target nss-lookup.target
 
 [Service]

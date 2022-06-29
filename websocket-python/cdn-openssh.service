@@ -1,7 +1,7 @@
 # /usr/local/bin/cdn-openssh
 [Unit]
-Description=Python WS-OpenSSH By NAIMSTORE
-Documentation=https://NAIMSTORE.xyz
+Description=Python WS-OpenSSH By pakya
+Documentation=https://pakya.xyz
 After=network.target nss-lookup.target
 
 [Service]
