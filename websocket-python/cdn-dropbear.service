@@ -1,7 +1,7 @@
 # /usr/local/bin/cdn-dropbear
 [Unit]
-Description=Python WS-Dropbear By pakya
-Documentation=https://pakya.xyz
+Description=Python WS-Dropbear By jiwakentantal
+Documentation=https://jiwakentantal.xyz
 After=network.target nss-lookup.target
 
 [Service]
