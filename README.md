@@ -33,6 +33,13 @@ src="https://img.shields.io/badge/Service-Xray-success.svg">  <img src= "https:/
   sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update &&  apt install lolcat -y && gem install lolcat && apt install toilet -y && apt install figlet -y && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/jiwakentantal/caliburn/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
 
   ```
+  
+## INSTALLATION SCRIPT SSH WS
+
+  ```html
+  sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update &&  apt install lolcat -y && gem install lolcat && apt install toilet -y && apt install figlet -y && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/jiwakentantal/caliburn/main/source/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
+
+  ```  
  
  ## Copy & paste 👇👇 to your VPS if ERROR (WG ONLY)
  ## Wireguard
@@ -120,3 +127,4 @@ systemctl restart wg-quick@wg0
   <a><img src="https://img.shields.io/badge/Copyright%20©-JIWAKENTAL%20AutoScriptVPN%202022.%20All%20rights%20reserved...-blueviolet.svg" style="max-width:200%;">
     </p>
    </p>
+   
