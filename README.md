@@ -7,7 +7,6 @@
 
 <p align="center">
 
-  ```
  
 ## INSTALLATION SCRIPT
 
