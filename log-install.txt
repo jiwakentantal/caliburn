@@ -20,10 +20,10 @@
 
     [INFORMATION XRAY]
     ------------------
-   - Xray Vless Tcp Xtls     : 443    
-   - Xray Vless Ws Tls       : 443
-   - Xray Vless Ws None Tls  : 80
-   - Xray Vless Http None Tls: 80
+   - Vless Tcp Xtls          : 443  
+   - Vless Ws Tls            : 443
+   - Vless Ws None Tls       : 80
+   - Vless Http None Tls.    : 80
    ----------------------------------------------------
 
    >>> SERVER INFORMATION & OTHER FEATURE
