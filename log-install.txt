@@ -1,0 +1,35 @@
+====================[PREMIUM SCRIPT]===================
+
+   >>> SERVICE & PORT
+
+    [INFORMATION SSH & OPENVPN]
+    ---------------------------
+   - OPENSSH                 : 22
+   - OPENVPN                 : TCP 1194, UDP 2200
+   - OPENVPN SSL             : 110
+   - STUNNEL                 : 443
+   - DROPBEAR                : 109, 143
+   - OHP SSH                 : 8686
+   - OHP OPENVPN             : 8787
+   - Websocket SSH(HTTP)     : 8080
+
+    [INFORMATION BADVPN,NGINX]
+    --------------------------------
+   - BADVPN                  : 7100, 7200, 7300
+   - NGINX                   : 81
+
+    [INFORMATION XRAY]
+    ------------------
+   - Xray Vless Tcp Xtls     : 443    
+   - Xray Vless Ws Tls       : 443
+   - Xray Vless Ws None Tls  : 80
+   - Xray Vless Http None Tls: 80
+   ----------------------------------------------------
+
+   >>> SERVER INFORMATION & OTHER FEATURE
+   - TIMEZONE                : ASIA/KUALA_LUMPUR (GMT +8)
+   - IPTABLES                : [ON]
+   - IPV6                    : [OFF]
+   - AUTO DELETE EXPIRED ACCOUNT VPN
+   - INSTALLATION LOG --> /root/log-install.txt
+-------------------- SCRIPT BY PAKYAVPN -------------------
